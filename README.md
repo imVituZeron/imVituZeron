@@ -1,16 +1,24 @@
-### Hi there 👋
+# Opa Bão?
 
-<!--
-**imVituZeron/imVituZeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitor. 
 
-Here are some ideas to get you started:
+- 🚀 Atualmente trabalho com Logística na CPFL Soluções.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Estudo DevOps e estou sempre programando.
+
+- 💬 Gosto de esportes, futebol e o meu forte, basquete sou o **Lebron da perna quebrada**, amo tecnologia ao ponto de tentar automatizar tudo com Python e Shell Script.
+##
+ <div>
+  <a href="https://github.com/imVituZeron">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imVituZeron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imVituZeron&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<p align="center">
+  <a href="https://gitlab.edcast.com/me">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-de-paula-santos-02135a173/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
