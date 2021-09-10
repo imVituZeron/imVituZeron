@@ -15,7 +15,7 @@ Meu nome é Vitor.
 </div>
   
 <p align="center">
-  <a href="https://gitlab.edcast.com/me">
+  <a href="https://gitlab.com/imVituZeron">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vitor-de-paula-santos-02135a173/">
