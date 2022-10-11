@@ -1,12 +1,12 @@
-# Opa Bão?
+# Opa, Bão?
 
 Meu nome é Vitor. 
 
 - 🚀 Atualmente trabalho com Logística na CPFL Soluções.
 
-- 📚 Estudo DevOps e estou sempre programando.
+- 📚 Analista de Sistemas e estou sempre programando.
 
-- 💬 Gosto de esportes, futebol e o meu forte, basquete sou o **Lebron da perna quebrada**, amo tecnologia ao ponto de tentar automatizar tudo com Python e Shell Script.
+- 💬 Gosto de esportes, futebol é o meu forte, basquete sou o **Lebron da perna quebrada**, amo tecnologia ao ponto de tentar automatizar tudo.
 ##
  <div>
   <a href="https://github.com/imVituZeron">
