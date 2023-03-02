@@ -2,9 +2,9 @@
 
 Meu nome é Vitor. 
 
-- 🚀 Atualmente trabalho com Logística na CPFL Soluções.
+- 🚀 Atualmente trabalho com DevOps na Rubeus.
 
-- 📚 Analista de Sistemas e estou sempre programando.
+- 📚 Analista de Sistemas, estou sempre programando e sempre estudando sobre infraestrutura. 
 
 - 💬 Gosto de esportes, futebol é o meu forte, basquete sou o **Lebron da perna quebrada**, amo tecnologia ao ponto de tentar automatizar tudo.
 ##
