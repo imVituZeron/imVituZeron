@@ -1,12 +1,12 @@
-# Opa, Bão?
+# Hi
 
-Meu nome é Vitor. 
+My name is Vitor. 
 
-- 🚀 Atualmente trabalho com DevOps na Rubeus.
+- 🚀 I currently work at Rubeus as DevOps Analyst.
 
-- 📚 Analista de Sistemas, estou sempre programando e sempre estudando sobre infraestrutura. 
+- 📚 **Docker**, **Linux** and **Python** are the technologies that i've the most knowledge, i'm always programming and studing about infrascruture. Love overall technology. 
 
-- 💬 Gosto de esportes, futebol é o meu forte, basquete sou o **Lebron da perna quebrada**, amo tecnologia ao ponto de tentar automatizar tudo.
+- 💬 I like sports, soccer is my favorite sport, basketball I look like **Lebron James with broken legs**.
 ##
  <div>
   <a href="https://github.com/imVituZeron">
