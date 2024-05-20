@@ -4,9 +4,9 @@ My name is Vitor.
 
 - 🚀 I currently work at Rubeus as DevOps Analyst.
 
-- 📚 **Docker**, **Linux** and **Python** are the technologies that i've the most knowledge, i'm always programming and studing about infrascruture. Love overall technology. 
+- 📚 **Docker**, **Linux** and **Python** are the technologies that I have the most knowledge, I'm always programming and studing about infrascruture. I love overall technology. 
 
-- 💬 I like sports, soccer is my favorite sport, basketball I look like **Lebron James with broken legs**.
+- 💬 I like sports, my favorite is soccer sport, in the basketball I play as **Lebron James with his broken legs**.
 ##
  <div>
   <a href="https://github.com/imVituZeron">
